@@ -44,7 +44,7 @@ view/dashboard.blade.php
      <li><a href="/dashboard/users">Manage Users</a></li>
   @endhasrole
 </div>
-I have successfully generated the default roles & permission with
+J'ai généré avec succès les rôles et autorisations par défaut avec
 
 Commands/GenerateRoles.php
 
