@@ -3,8 +3,8 @@ Dans ce tutoriel, il s'agit d'une application en Laravel 8 qui permet de:
  - La gestion des rôles
  - La gestion des utilisateurs
  - La gestion des produits
- 
- Notre sujet principal est le tutoriel sur les rôles et les autorisations de Laravel 8. Dans cet article, nous allons implémenter un didacticiel sur les rôles et les autorisations des utilisateurs de laravel 8 spatie. j'ai expliqué simplement étape par étape laravel 8 spatie/laravel-permission. expliquer étape par étape le didacticiel laravel 8 acl.
+
+Notre sujet principal est le tutoriel sur les rôles et les autorisations de Laravel 8. Dans cet article, nous allons implémenter un didacticiel sur les rôles et les autorisations des utilisateurs de laravel 8 spatie. j'ai expliqué simplement étape par étape laravel 8 spatie/laravel-permission. expliquer étape par étape le didacticiel laravel 8 acl.
 
 Nous utilisons le package spatie github pour les rôles et les autorisations dans l'application laravel 8. suivez simplement l'étape ci-dessous pour créer acl dans laravel 8.
 
