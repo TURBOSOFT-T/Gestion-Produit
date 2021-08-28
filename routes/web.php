@@ -32,3 +32,4 @@ Route::group(['middleware' => ['auth']], function() {
     Route::resource('users', UserController::class);
     Route::resource('products', ProductController::class);
 });
+//Route::get('/users', 'App\Http\Controllers\UserController@index');
