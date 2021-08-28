@@ -1,17 +1,17 @@
 <?php
-
+    
 namespace App\Http\Controllers;
+
 
 use Illuminate\Http\Request;
 use App\Http\Controllers\Controller;
 use Spatie\Permission\Models\Role;
 use Spatie\Permission\Models\Permission;
 use DB;
-
-
-class RoleControlle extends Controller
+    
+class RoleController extends Controller
 {
-     /**
+    /**
      * Display a listing of the resource.
      *
      * @return \Illuminate\Http\Response
@@ -23,8 +23,6 @@ class RoleControlle extends Controller
          $this->middleware('permission:role-edit', ['only' => ['edit','update']]);
          $this->middleware('permission:role-delete', ['only' => ['destroy']]);
     }
-    
-
     
     /**
      * Display a listing of the resource.
